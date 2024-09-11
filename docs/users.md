@@ -46,4 +46,5 @@ new-lab-user <username>
 ```
 
 This will generate a new user with the permissions and directories described
-above. A user's default password upon generation is `password`
+above. A user's default password upon generation is `password`. Upon logging in
+for the first time, users should run `passwd` to update to a better password.
