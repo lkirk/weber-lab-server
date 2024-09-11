@@ -102,3 +102,5 @@ If you try to install packages into the environment, you'll see that it is
 locked. To unlock, run the above command again. More information about this
 plugin can be found on the [project
 page](https://github.com/conda-incubator/conda-protect).
+
+The `base` conda environment is locked so that users cannot modify it.
